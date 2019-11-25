@@ -3,6 +3,10 @@
   background-color: #ee2255;
 }
 
+body{
+  font-family: "Montserrat";
+}
+
 #title {
   background-color: #ee2255;
   color: white;
