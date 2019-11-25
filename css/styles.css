@@ -7,6 +7,10 @@ body{
   font-family: "Montserrat";
 }
 
+#footer{
+  text-align: center;
+}
+
 #title {
   background-color: #ee2255;
   color: white;
