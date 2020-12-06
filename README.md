@@ -1,1 +1,2 @@
-# Bootstrap-website
+# Tindog 
+## A sample dog-dating website 
